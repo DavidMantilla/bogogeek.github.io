@@ -1,0 +1,46 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        
+font-style: normal;
+
+}.flaticon-book106:before {
+	content: "\e000";
+}
+.flaticon-book108:before {
+	content: "\e001";
+}
+.flaticon-book113:before {
+	content: "\e002";
+}
+.flaticon-book40:before {
+	content: "\e003";
+}
+.flaticon-book9:before {
+	content: "\e004";
+}
+.flaticon-books30:before {
+	content: "\e005";
+}
+.flaticon-books64:before {
+	content: "\e006";
+}
+.flaticon-ebook10:before {
+	content: "\e007";
+}
+.flaticon-hardbound:before {
+	content: "\e008";
+}
+.flaticon-negative-sign2:before {
+	content: "\e009";
+}

@@ -1,0 +1,51 @@
+#home 
+{
+	background-position:0,0 ;
+	background: url(../imagen/bg3.jpg) 0 0 no-repeat fixed;
+	min-height: 700px;
+	margin: 0 auto;
+	width: 100%;
+	
+	position: relative;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#seccion2 {
+	background: url(../imagen/bg5.jpg) 0 0 no-repeat fixed;
+	min-height: 700px;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+	position: relative;
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+#section3{
+	background: url(images/bg_2.jpg) 50% 0 no-repeat fixed;
+	min-height: 700px;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1920px;
+	position: relative;
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+.font{
+	@import url(https://fonts.googleapis.com/css?family=Carter+One);
+	font-family: 'Carter One', cursive;
+ 
+	
+	
+	}
